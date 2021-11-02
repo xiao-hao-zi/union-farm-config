@@ -1,0 +1,3 @@
+union:
+  tenant:
+    enable: true
